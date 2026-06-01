@@ -1,0 +1,388 @@
+/*sources externes*/
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Domine:wght@400..700&family=Oi&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Maps&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap');
+
+/*charte graphique*/
+:root {
+    --darkgreen: rgb(17, 44, 22);
+    --darkgreen2: rgb(32, 62, 39);
+    --lightgreen: rgb(47, 81, 56);
+    --lightgreen2: rgb(62, 101, 74);
+    --darkbrown: rgb(116, 49, 12);
+    --lightbrown: rgb(156, 87, 39);
+    --lightbrown2: rgb(183, 113, 57);
+    --cream: rgb(209, 223, 173);
+}
+
+/*première page*/
+.main--text h1 {
+    font-family: "Bowlby One SC", sans-serif;
+    font-weight: 400;
+    font-size: 110px;
+    color: transparent;
+    background-image: url(https://img.magnific.com/vetores-gratis/paisagem-de-floresta-deserta-na-hora-do-por-do-sol-com-muitos-cactos_1308-57026.jpg);
+    background-size: cover;
+    background-clip: text;
+    animation: animate 25s linear infinite;
+    text-align: center;
+     
+}
+
+@keyframes animate {
+    to {
+        background-position-x: -500px;
+    }
+}
+
+header hr {
+    border: 1px dashed var(--darkgreen2);
+    border-radius: 15px;
+    width: 50%;
+    margin: 20px auto;
+    margin-bottom: 40px;
+}
+
+main {
+    max-width: 1100px;
+    margin: 0;
+    padding: 0px;
+}
+
+main p {
+    text-indent: 30px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.different--paragraph {
+    font-size: 18px;
+    text-align: center;
+    text-indent: 0;
+    border: 2px dashed var(--lightbrown);
+    border-radius: 15px;
+    display: block;
+    padding: 2px 8px;
+    margin: 0 auto;
+    width:fit-content;
+
+}
+
+
+/*supprimer le menu à gauche*/
+body.homepage .col-md-3 {
+    display: none;
+}
+
+/*modifier la dimension laterale*/
+body.homepage .col-md-9 {
+    width: 100%;
+    max-width: 1200px;
+    margin:0;
+
+}
+
+/*général*/
+
+/*barre de recherche*/
+
+#mkdocs-search-query{
+    border-color: var(--lightgreen) !important;
+    box-shadow: 0 0 5px var(--lightgreen2) !important;
+    
+}
+
+#mkdocs-search-results a{
+    color: var(--lightbrown2);
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+#mkdocs-search-results a:hover{
+    color: var(--lightbrown);
+    text-decoration: underline;
+}
+
+/*menu*/
+.bg-primary .container {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    
+}
+
+.navbar.bg-primary {
+    background-image: linear-gradient(var(--darkgreen2), var(--lightgreen) 10%, var(--darkgreen2));
+}
+
+body {
+    background: var(--darkgreen);
+    background: linear-gradient(166deg, rgb(0, 0, 0) 0%, var(--darkgreen) 50%, var(--darkgreen2) 100%);
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: var(--cream);
+    text-shadow: 0 3px 8px  rgba(0, 0, 0, 0.301);
+}
+
+h1::first-letter {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+p {
+    text-indent: 30px;
+}
+
+/*menu à gauche*/
+
+.bs-sidebar .nav-link {
+    color: var(--lightbrown2);
+    text-decoration: none;
+}
+
+.bs-sidebar .nav-link:hover {
+    color: var(--lightbrown);
+}
+
+
+/*les oeuvres*/
+details {
+    border-left: 2px dashed var(--lightgreen);
+    text-align: justify;
+    
+}
+
+details > summary {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: var(--lightbrown);
+    padding: 4px;
+}
+
+details > summary:hover {
+    color: var(--darkbrown);
+}
+
+details:nth-of-type(1), details:nth-of-type(2), details:nth-of-type(3) {
+    font-family: "Roboto", sans-serif;
+    color: var(--darkgreen);
+}
+
+summary::marker {
+    color: var(--darkgreen2);
+    font-size: 16px;
+    content: "+ ";
+}
+
+blockquote {
+    font-style: italic;
+    
+}
+
+
+/*tableau et bouton*/
+.buton_legende {
+    display: flex;
+    justify-content: flex-start;
+    text-align: center; 
+    position: relative;
+}
+
+.btn-primary {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    width: 210px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen2));
+    border: 2px solid var(--darkgreen);
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 5px;
+    box-shadow: 0 3px 8px  rgba(0, 0, 0, 0.301);
+     
+}
+
+.overlay {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    padding: 12px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: var(--darkgreen2);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+}   
+
+.overlay p {
+    text-align: center;
+    text-indent: 0px;
+}
+
+.btn-primary:hover {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen));
+    border: 2px solid var(--lightbrown2);
+}
+
+.btn-primary:active{
+    border: 2px solid rgb(255, 255, 255); /*IMPORTANT : à changer a couler lorsqu'on clique sur!!!!*/
+}
+
+.selection-anchor {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+/*tri alphabétique*/
+.selection-anchor a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.selection-anchor a:hover {
+    color: var(--darkgreen);
+    background-color: var(--lightgreen2);
+    border-radius: 800px;
+    border: 2px solid var(--lightgreen2);
+    padding: 10px;
+    text-decoration: none;
+}
+
+/*tableau*/
+table, td, th {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    
+}
+
+table tr:first-child th {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.301);
+    
+}
+
+th:first-of-type {
+    border-top-left-radius: 25px;
+}
+
+th:last-of-type {
+    border-top-right-radius: 25px;
+}
+
+tr:last-child td:first-child {
+    border-bottom-left-radius: 25px;
+}
+
+tr:last-child td:last-child {
+    border-bottom-right-radius: 25px;
+}
+
+.mot:hover {
+    background-color:var(--lightgreen2);
+}
+
+.expression:hover {
+    background-color:var(--lightbrown2);
+}
+
+.onomatopee:hover{
+    background-color:var(--gold);
+}
+
+body {
+    text-align:justify;
+}
+
+
+
+/*contact*/
+textarea, input:not(.btn--formulaire) {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+
+}
+
+input[type="radio"] {
+    accent-color: var(--lightbrown2);
+}
+
+input:focus, textarea:focus {
+    outline:none;
+    border: 2px solid var(--lightbrown2);
+}
+
+.bouton--formulaire {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    width: 120px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen2));
+    border: 2px solid var(--darkgreen)!important;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 5px;
+    box-shadow: 0 3px 8px  rgba(0, 0, 0, 0.301);
+    margin-left: 120px;
+}
+
+.bouton--formulaire:hover {
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen));
+    border: 2px solid var(--lightbrown2)!important;
+}
+
+
+/*footer*/
+.col-md-12 {
+    background-color: rgba(0, 0, 0, 0.301) !important;
+    color: var(--lightgreen2);
+    }
+
+.col-md-12 p {
+    font-size: 0;
+}
+
+.col-md-12 p::after {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    content: "FERNANDES Dominique Daria - Université de Rouen Normandie, 2026."
+}
+
+/*responsive*/
+
+@media (max-width:480px) {
+   .main--text h1 {
+    display: flex;
+    flex-wrap: wrap ;
+    font-size: 48px !important;
+   }
+   
+   input {
+    display: flex;
+    flex-wrap: wrap;
+   }
+
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+    .main--text h1 {
+    display: flex;
+    flex-wrap: wrap ;
+    font-size: 70px !important;
+   }
+
+}
