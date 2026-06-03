@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="/img/favicon.ico">
-        <title>My Docs</title>
+        <title>Accueil</title>
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         <link href="/css/fontawesome.min.css" rel="stylesheet">
         <link href="/css/brands.min.css" rel="stylesheet">
@@ -17,6 +17,7 @@
         <link href="/css/base.css" rel="stylesheet">
         <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
         <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="/estilo.css" rel="stylesheet">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
         <script>hljs.highlightAll();</script> 
     </head>
@@ -24,10 +25,32 @@
     <body>
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
-                <a class="navbar-brand" href="/.">My Docs</a>
+                <a class="navbar-brand" href="/.">Accueil</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
                 <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="/essai/" class="nav-link">Les Oeuvres</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/espace/" class="nav-link">L'espace géographique</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/langage/" class="nav-link">Le langage</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/mots/" class="nav-link">Du Nordestês</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/contacte/" class="nav-link">Contactez-nous</a>
+                            </li>
+                        </ul>
 
                     <ul class="nav navbar-nav ms-md-auto">
                         <li class="nav-item">
