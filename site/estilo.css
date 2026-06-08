@@ -1,5 +1,6 @@
 /*sources externes*/
-@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Domine:wght@400..700&family=Oi&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Maps&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap');
 
 /*charte graphique*/
@@ -11,35 +12,34 @@
     --darkbrown: rgb(116, 49, 12);
     --lightbrown: rgb(156, 87, 39);
     --lightbrown2: rgb(183, 113, 57);
-    --cream: rgb(209, 223, 173);
+    --cream: rgb(228, 217, 159);
 }
 
 /*première page*/
 .main--text h1 {
-    font-family: "Bowlby One SC", sans-serif;
-    font-weight: 400;
+    font-family: "Kablammo", system-ui;
+    font-weight: 650;
     font-size: 110px;
-    color: transparent;
-    background-image: url(https://img.magnific.com/vetores-gratis/paisagem-de-floresta-deserta-na-hora-do-por-do-sol-com-muitos-cactos_1308-57026.jpg);
-    background-size: cover;
-    background-clip: text;
-    animation: animate 25s linear infinite;
+    color: var(--lightbrown2);
     text-align: center;
      
 }
 
-@keyframes animate {
-    to {
-        background-position-x: -500px;
-    }
+.main--text h4 {
+    font-family: "Noto Sans HK", sans-serif;
+    color: var(--cream);
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 header hr {
-    border: 1px dashed var(--darkgreen2);
+    border: 1px solid var(--darkgreen2);
     border-radius: 15px;
-    width: 50%;
+    width: 18%;
     margin: 20px auto;
     margin-bottom: 40px;
+    margin-top: 40px;
 }
 
 main {
@@ -48,18 +48,45 @@ main {
     padding: 0px;
 }
 
-main p {
+#main {
     text-indent: 30px;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     color: rgb(255, 255, 255);
+    display: none;
 }
 
+.btn--savoir {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    width: 160px;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen2));
+    border: 2px solid var(--darkgreen)!important;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 5px;
+    box-shadow: 0 3px 8px  rgba(0, 0, 0, 0.301);
+    margin:0 auto;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+
+.btn--savoir:hover {
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(var(--darkgreen));
+    border: 2px solid var(--lightbrown2)!important;
+}
+
+
 .different--paragraph {
-    font-size: 18px;
+    font-size: 14px;
     text-align: center;
     text-indent: 0;
-    border: 2px dashed var(--lightbrown);
     border-radius: 15px;
     display: block;
     padding: 2px 8px;
@@ -156,11 +183,12 @@ details {
     
 }
 
-details > summary {
+details summary {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     color: var(--lightbrown);
     padding: 4px;
+    list-style: none;
 }
 
 details > summary:hover {
@@ -172,10 +200,21 @@ details:nth-of-type(1), details:nth-of-type(2), details:nth-of-type(3) {
     color: var(--darkgreen);
 }
 
-summary::marker {
+details summary::-webkit-details-marker {
+    display: none;
+}
+
+details summary::before {
     color: var(--darkgreen2);
     font-size: 16px;
-    content: "+ ";
+    content: "+";
+    display: inline-block;
+    transition: transform 0.5s ease-in-out;
+}
+
+
+details[open] > summary::before {
+    transform: rotate(45deg) !important;
 }
 
 blockquote {
@@ -266,8 +305,8 @@ table, td, th {
 }
 
 table tr:first-child th {
-    color: rgb(255, 255, 255);
-    background-color: rgba(0, 0, 0, 0.301);
+    color: var(--darkgreen);
+    background-color: var(--cream);
     
 }
 
@@ -296,7 +335,7 @@ tr:last-child td:last-child {
 }
 
 .onomatopee:hover{
-    background-color:var(--gold);
+    background-color:var(--cream);
 }
 
 body {
