@@ -36,7 +36,7 @@
     <td>[a]  [bẽ’sɐ̃w̃]
     <br>
     <audio controls>
-        <source src="..../assets/audio/abencao.ogg" type="audio/ogg">
+        <source src="../assets/audio/abencao.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -791,7 +791,7 @@
     <td>[‘vaλɐ-mi] [‘Dews]
     <br>
     <audio controls>
-        <source src="....../assets/audio/valhamedeus.ogg" type="audio/ogg">
+        <source src="../assets/audio/valhamedeus.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -804,7 +804,7 @@
     <td>[ver’gõtjɐ]
     <br>
     <audio controls>
-        <source src="..../assets/audio/vergontea.ogg" type="audio/ogg">
+        <source src="../assets/audio/vergontea.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
