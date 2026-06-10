@@ -1,0 +1,61 @@
+# Sources
+
+<details>
+    <summary>Bibliographie</summary>
+    <p><em>Sources primaires :</em></p>
+    <p>LISPECTOR Clarice, <em>A hora da estrela</em>, Rio de Janeiro, Editora Rocco, 1977</p>
+    <p>QUEIROZ Rachel de, <em>O quinze</em>, Rio de Janeiro, Editora José Olympio, 2012.</p>
+    <p>SUASSUNA Ariano, <em>O auto da Compadecida</em>, Rio de Janeiro, Agir, 1975. </p>
+    <br>
+    <p><em>Sources secondaires :</em></p>
+    <p>A língua portuguesa. 3.3.a. <em>História da língua no Brasil</em>, Universidade Federal do Rio Grande do Norte, en ligne, <a href="http://www.linguaportuguesa.ufrn.br/pt_3.3.a.php" target="_blank">http://www.linguaportuguesa.ufrn.br/pt_3.3.a.php</a>, [consulté le 21 janvier 2026].</p>
+    <p>ARBOCONTROL. « Nordeste ». <em>ARBOCONTROL</em>, en ligne, <a href="https://arbocontrol.unb.br/?page_id=1205" target="_blank">https://arbocontrol.unb.br/?page_id=1205</a>, [consulté le 19 novembre 2025].</p>
+    <p>BERNARDES Denis de Mendonça, “Notas sobre a formação social do Nordeste”, en ligne, <a href="https://www.scielo.br/j/ln/a/sqrVzP6vcvNqvzr4frCnKnC/?format=pdf" target="_blank">https://www.scielo.br/j/ln/a/sqrVzP6vcvNqvzr4frCnKnC/?format=pdf</a>, [consulté le 8 mars 2025].</p>
+    <p>CORREIA DE ANDRADE Manuel, “Le Nordeste brésilien. In: <em>Cahier d’outre-mer</em>.”  N°193 - 49e année, Janvier-mars 1996. Brésil. pp. 3-30, en ligne, <a href="www.persee.fr/doc/caoum_0373-5834_1996_num_49_193_3594" target="_blank">www.persee.fr/doc/caoum_0373-5834_1996_num_49_193_3594</a>, [consulté le 19 novembre 2025].</p>
+    <p>DECHOW Douglas R, STRUPPA Daniele C., « Intertwingled, The work and influence of Ted Nelson », en ligne, <a href="https://link.springer.com/book/10.1007/978-3-319-16925-5" target="_blank">https://link.springer.com/book/10.1007/978-3-319-16925-5</a>, [consulté le 12 février 2025]. </p>
+    <p>Ebguy, J.-D. (2024). Françoise GADET, La Variation sociale en français, Paris, OPHRYS édition, coll. « L’essentiel français », 2024 (192 p., 18,95 euros) <em>Le français aujourd'hui</em>, 226(3), 130-130, en ligne, <a href="https://doi.org/10.3917/lfa.226.0129" target="_blank">https://doi.org/10.3917/lfa.226.0129</a>, [consulté le 22 janvier 2026].</p>
+    <p>FIRMINO Paul Clívilan Sntos, “Alicerces da formação socioespacial, histórica e econômica de Alagoas”. Crítica Histórica.</p>
+    <p>FERREIRA, Aurélio Buarque de Holanda. <em>Novo Dicionário da Língua Portuguesa</em>. 1 éd., 15e impression. Rio de Janeiro : Editora Nova Fronteira, 1997.</p>
+    <p>FUSCO Wilson, OJIMA Ricardo, « Censo Demográfico 2022 : reflexões iniciais sobre a região Nordeste », en ligne, <a href="https://www.gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/relatorios-de-pesquisas/censo-demografico-2022-reflexoes-iniciais-sobre-a-regiao-nordeste.pdf" target="_blank">https://www.gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/relatorios-de-pesquisas/censo-demografico-2022-reflexoes-iniciais-sobre-a-regiao-nordeste.pdf</a>, [consulté le 20 novembre 2025].</p>
+    <p>Instituto Brasileiro de Geografia e Estatística (IBGE), <em>Cidades e Estados</em>, en ligne, <a href="https://www.ibge.gov.br/cidades-e-estados" target="_blank">https://www.ibge.gov.br/cidades-e-estados</a> , [consulté le 21 janvier 2026].</p>
+    <p>LAY Marie-Hélène, « Le numérique et le dictionnaire : l’impact de l’artéfact numérique sur la lexicographie (1970-2010) », article mis à jour le 01 décembre 2024, en ligne, <a href="https://doi.org/10.4000/12ypt" target="_blank">https://doi.org/10.4000/12ypt</a>, [consulté le 11 février 2025]. </p>
+    <p>LEHMANN A. et MARTIN-BERTHET, F. (2018). Lexicologie : Sémantique, morphologie et lexicographie. (5e éd.). Armand Colin, en ligne, <a href="https://doi-org.ezproxy.normandie-univ.fr/10.3917/arco.hmann.2018.01" target="_blank">https://doi-org.ezproxy.normandie-univ.fr/10.3917/arco.hmann.2018.01</a>, [consulté le 8 juin 2026].</p>
+    <p>LEITE Yonne, CALLOU Dinah. <em>Como falam os brasileiros</em>, Rio de Janeiro, Jorge Zahar Editor, 2002.</p>
+    <p>Matos, M.P. (s.d.), <em>Modernismo </em>– 3ª fase. PDF de cours, [consulté le 17 mai 2026].</p>
+    <p>NEVES Flávia, « Transcrição fonética », <em>Norma Culta</em>, en ligne, <a href="https://www.normaculta.com.br/transcricao-fonetica/" target="_blank">https://www.normaculta.com.br/transcricao-fonetica/, </a>, [consulté le 4 mai 2026].</p>
+    <p>NYCE James M., KAHN Paul, <em>From memex to hypertext: Vannevar Bush and the mind’s Machine</em>, San Diego, Academic Press INC., 1991.</p>
+    <p>SAUSSURE, F. de. <em>Cours de linguistique générale </em>(Éd. Critique), en ligne, <a href="https://monoskop.org/images/f/f1/Saussure_Ferdinand_de_Cours_de_linguistique_generale_Edition_critique_1997.pdf" target="_blank">https://monoskop.org/images/f/f1/Saussure_Ferdinand_de_Cours_de_linguistique_generale_Edition_critique_1997.pdf</a>, [consulté le 23 novembre 2025].</p>
+    <p>SUASSUNA Clara Fernandes, “A Paralização no tempo: o tempo e a História de 1930 na Paraíba”.</p>
+    <p>SOBRINHO Thomas Pompeu. <em>Pré-história cearense</em>. Instituto do Ceará, en ligne, <a href="https://www.institutodoceara.org.br/revista/Rev-apresentacao/RevPorAno/1952/1952-PrehistoriaCearense.pdf" target="_blank">https://www.institutodoceara.org.br/revista/Rev-apresentacao/RevPorAno/1952/1952-PrehistoriaCearense.pdf</a>, [consulté le 7 mars 2025].</p>
+    <p>« O que é o Neorrealismo ? », Museu do Neo-realismo, en ligne, <a href="https://www.museudoneorealismo.pt/o-que-e-o-neorrealismo-11" target="_blank">https://www.museudoneorealismo.pt/o-que-e-o-neorrealismo-11</a>, [consulté le 23 janvier 2026].</p>
+    <p>OTLET, Paul. « Traité de documentation. Éditions des maisons des sciences de l’homme associées », article mis à jour le 27 mai 2021, en ligne, <a href="https://doi.org/10.4000/books.emsha.482" target="_blank">https://doi.org/10.4000/books.emsha.482</a>, [consulté le 12 février 2025].</p>
+</details>
+
+
+<br>
+
+<details>
+    <summary>Siteographie</summary>
+    <p>ACADEMIA DAS CIÊNCIAS DE LISBOA, « Melado », <em>Dicionário da Língua Portuguesa</em>, en ligne, <a href="https://dicionario.acad-ciencias.pt/pesquisa/melado" target="_blank">https://dicionario.acad-ciencias.pt/pesquisa/melado</a>, [consulté le 4 mai 2026].</p>
+    <p>ANIMALBR, « Jandaia : a beleza exótica e inteligência cativante das aves brasileiras », en ligne, <a href="https://animalbr.com/aereos/jandaia-a-beleza-exotica-e-inteligencia-cativante-das-aves-brasileiras/" target="_blank">https://animalbr.com/aereos/jandaia-a-beleza-exotica-e-inteligencia-cativante-das-aves-brasileiras/</a>, [consulté le 10 mai 2026].</p>
+    <p>AULETE, « Aracati », en ligne, <a href="https://www.aulete.com.br/aracati" target="_blank">https://www.aulete.com.br/aracati</a>, [consulté le 10 mai 2026].</p>
+    <p>BRASIL ESCOLA, « O cangaço no Brasil », en ligne, <a href="https://monografias.brasilescola.uol.com.br/historia/o-cangaco-no-brasil.htm" target="_blank">https://monografias.brasilescola.uol.com.br/historia/o-cangaco-no-brasil.htm</a>, [consulté le 10 mai 2026].</p>
+    <p>CASA COR, « Mandacuru : como cultivar a planta que é símbolo do sertão », en ligne, <a href="https://casacor.abril.com.br/pt-BR/noticias/paisagismo/mandacaru-como-cultivar-a-planta-que-e-simbolo-do-sertao" target="_blank">https://casacor.abril.com.br/pt-BR/noticias/paisagismo/mandacaru-como-cultivar-a-planta-que-e-simbolo-do-sertao</a>, [consulté le 30 mars 2026]. </p>
+    <p>DICIO, « Pisadura », en ligne, <a href="https://www.dicio.com.br/pisadura/" target="_blank">https://www.dicio.com.br/pisadura/</a>, [consulté le 30 mars 2026].</p>
+    <p>DICIONÁRIO INFORMAL, « Biu », en ligne, <a href="https://www.dicionarioinformal.com.br/significado/biu/4707/" target="_blank">https://www.dicionarioinformal.com.br/significado/biu/4707/</a>, [consulté le 4 juin 2026].</p>
+    <p>EMBRAPA, « Juazeiro », <em>Agência de Informação Tecnológica</em>, en ligne, <a href="https://www.embrapa.br/agencia-de-informacao-tecnologica/tematicas/bioma-caatinga/flora/forrageiras/juazeiro" target="_blank">https://www.embrapa.br/agencia-de-informacao-tecnologica/tematicas/bioma-caatinga/flora/forrageiras/juazeiro</a>, [consulté le 30 mars 2026].</p>
+    <p>FUNDAÇÃO JOAQUIM NABUCO (FUNDAJ), « Macambira (<em>Bromelia laciniosa</em>) », en ligne, <a href="https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/plantas-xerofilas/macambira-bromelia-laciniosa" target="_blank">https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/plantas-xerofilas/macambira-bromelia-laciniosa</a>, [consulté le 7 juin 2026].</p>
+    <p>GLOSSÁRIO ECONOMY HOTÉIS, « O que é mungunzá do Nordeste em Natal », en ligne, <a href="https://glossario.economyhoteis.com.br/index.php/glossario/o-que-e-mungunza-do-nordeste-em-natal/" target="_blank">https://glossario.economyhoteis.com.br/index.php/glossario/o-que-e-mungunza-do-nordeste-em-natal/</a>, [consulté le 17 mai 2026].</p>
+    <p>LAROUSSE, « Baratin », <em>Dictionnaire de français Larousse</em>, en ligne, <a href="https://www.larousse.fr/dictionnaires/francais/baratin/7913" target="_blank">https://www.larousse.fr/dictionnaires/francais/baratin/7913</a>, [consulté le 4 juin 2026].</p>
+    <p>LEXILOGOS, <em>IPA Keyboard Online : International Phonetic Alphabet Symbols</em>, en ligne, <a href="https://www.lexilogos.com/keyboard/ipa.htm" target="_blank">https://www.lexilogos.com/keyboard/ipa.htm</a>, [consulté le 4 mai 2026].</p>
+    <p>MICHAELIS, « Sinhá », en ligne, <a href="https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/sinh%C3%A1/" target="_blank">https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/sinh%C3%A1/</a>, [consulté le 7 juin 2026].</p>
+    <p>MONTEIRO Luiza, « Por que a carne de sol tem esse nome ? », 25 juin 2019, en ligne, <a href="https://super.abril.com.br/coluna/oraculo/por-que-a-carne-de-sol-tem-esse-nome/" target="_blank">https://super.abril.com.br/coluna/oraculo/por-que-a-carne-de-sol-tem-esse-nome/</a>, [consulté le 4 mai 2026].</p>
+    <p>NATUREZA DIVINA, « Jurema », en ligne, <a href="https://www.naturezadivina.com.br/blog/jurema.html" target="_blank">https://www.naturezadivina.com.br/blog/jurema.html</a>, [consulté le 30 mars 2025].</p>
+    <p>ORIGEM DA PALAVRA, « Lesão », en ligne, <a href="https://origemdapalavra.com.br/palavras/leso/" target="_blank">https://origemdapalavra.com.br/palavras/leso/</a>, [consulté le 7 juin 2026].</p>
+    <p>POINT ANIMAL DF, « Jandaia-amarela », traduction personnelle à partir de l’article en ligne, <a href="https://animalbr.com/aereos/jandaia-a-beleza-exotica-e-inteligencia-cativante-das-aves-brasileiras/" target="_blank">https://animalbr.com/aereos/jandaia-a-beleza-exotica-e-inteligencia-cativante-das-aves-brasileiras/</a>, [consulté le 30 mars 2025].</p>
+    <p>PORTAL AMAZÔNIA, « Estudo aponta potencialidade da planta amazônica lacre no trato de ferimentos », en ligne, <a href="https://portalamazonia.com/amazonia/estudo-aponta-potencialidade-da-planta-amazonica-lacre-no-trato-de-ferimentos/" target="_blank">https://portalamazonia.com/amazonia/estudo-aponta-potencialidade-da-planta-amazonica-lacre-no-trato-de-ferimentos/</a>, [consulté le 24 mai 2026].</p>
+    <p>RIBOLDI Ari, « Cabra da Peste, o bom cabrito não berra… », <em>Prefeitura Municipal de Porto Alegre</em>, en ligne, <a href="https://lproweb.procempa.com.br/pmpa/prefpoa/pwmovel/cidadao.php?reg=2&p_secao=158" target="_blank">https://lproweb.procempa.com.br/pmpa/prefpoa/pwmovel/cidadao.php?reg=2&p_secao=158</a>, [consulté le 7 juin 2026].</p>
+    <p>SHAPE FACTORY, <em>Pigment</em>, en ligne <a href="https://pigment.shapefactory.co/" target="_blank">https://pigment.shapefactory.co/</a>, [consulté le 21 mai 2026].</p>
+    <p>TV Cultura, « Panorama com Clarice Lispector », 7 décembre 2012, disponible sur <a href="https://www.youtube.com/watch?v=ohHP1l2EVnU" target="_blank">https://www.youtube.com/watch?v=ohHP1l2EVnU</a>, [consulté le 6 mai 2026].</p>
+    <p>W3 Schools, en ligne, <a href="https://www.w3schools.com/" target="_blank">https://www.w3schools.com/</a>, [consulté le 4 juin 2026].</p>
+</details>

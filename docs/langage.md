@@ -9,7 +9,3 @@
 <p>La langue des autochtones a longtemps été majoritaire au sein de la population et, plus tard, en 1759, la langue portugaise a été imposée par la Cour . Nous comprenons, ainsi, que cette diversité est parvenue jusqu’à nous grâce aux aspects historiques.</p>
 <p>Parmi toutes les influences sur la langue – celles mentionnées et d’autres, – il faut que ce qui suit soit clarifié : les variations linguistiques, la diversité lexicale, les différents rythmes etc. ne mettent pas en danger la langue portugaise. Cependant, la langue, en tant qu’organe vivant, est toujours en mutation et donc susceptible de variations qui représentent le changement de « l’ancien » vers le plus « actuel ».</p>
 
-<details>
-<summary> La phonétique/phonologie </summary>
-<!-- sur la prononciation etc.!-->
-</details>

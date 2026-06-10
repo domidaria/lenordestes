@@ -1,13 +1,22 @@
-site_name: Accueil
+site_name: Le Nordestês
 site_description: Le glossaire Le Nordestês
 
 extra_css:
 - estilo.css
 
-nav:
-- Les Oeuvres: essai.md
-- L'espace géographique: espace.md
-- Le langage: langage.md
-- Du Nordestês : mots.md
-- Contactez-nous : contacte.md
 
+nav:
+- L'espace géographique: espace.md
+- Les Oeuvres: essai.md
+- Langage: langage.md
+- Glossaire : 
+  - O Quinze : mots.md
+  - O Auto da Compadecida : oauto.md
+  - A Hora da Estrela : ahora.md
+- Contacte : contacte.md
+- Sources : sources.md
+
+plugins:
+  - search
+  - section-index
+  

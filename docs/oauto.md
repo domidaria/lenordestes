@@ -1,0 +1,341 @@
+# O Auto da Compadecida
+
+<div class="buton_legende">
+    <button popovertarget="popover-one" class="btn btn-lg btn-primary" title="Voir la légende">Guide de lecture</button>
+        <div class="overlay" id="popover-one" popover="auto">
+            <p><b>Légende</b></p>
+            <p class="mot">Mot</p>
+            <p class="expression">Expression</p>
+            <p class="onomatopee">Onomatopée</p>
+        </div>
+</div>
+<br>
+
+<div class="selection-anchor">
+    <a href="#secao1">A</a> - <a href="#secao2">B</a> - <a href="#secao3">C</a> - <a href="#secao4">D</a> - <a href="#secao5">E</a> - F - G - H - I - J - K - <a href="#secao12">L</a> - <a href="#secao13">M</a> - N - O - <a href="#secao16">P</a> - Q - <a href="#secao18">R</a> - S - <a href="#secao20">T</a> - U - V - W - X - Y - Z
+</div>
+
+<p><br></p>
+<table>
+    <tr>
+        <th>Classe (mot, expression, onomatopé)</th>
+        <th>Référence dans le livre (avec l’extrait)</th>
+        <th>Chapitre, page</th>
+        <th>Le.s sens, origine</th>
+        <th>Valeur</th>
+        <th>Transcription phonétique</th>
+    </tr>
+
+<tr id="secao1">
+    <td class="expression"> Aguentar o rojão </td>
+    <td>« Se tivessem tido que <strong>agüentar o rojão</strong> de João Grilo… » </td>
+    <td>Page 128</td>
+    <td>Savoir gérer la pression de quelqu’un ou de la situation.</td>
+    <td>Familier</td>
+    <td>[a’gwẽtar] [u] [Ro’jãw]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/aguentarorojao.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+    <td class="mot">Amarelo</td>
+    <td>« Porque você é um <strong>amarelo</strong> muito safado. »</td>
+    <td>Page 58</td>
+    <td>Quelqu’un qui n’a pas de courage.</td>
+    <td>Vulgaire</td>
+    <td>[ama’rɛlu]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/amarelo.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+
+<tr>
+    <td class="mot">Aperreio</td>
+    <td>« Que <strong>aperreio</strong> é esse? »</td>
+    <td>Page 60</td>
+    <td>Angoisse, inquiétude.</td>
+    <td>Familier</td>
+    <td>[ape’Reju]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/aperreio.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao2">
+    <td class="mot">Bento</td>
+    <td>« Eu mesmo já tive um cavalo <strong>bento</strong>. »</td>
+    <td>Page 14</td>
+    <td>Béni (par Dieu).</td>
+    <td>Non-vulgaire</td>
+    <td>[ˈbẽtu]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/bento.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Besta</td>
+    <td>« Não é <strong>besta</strong> não? »</td>
+    <td>Page 18</td>
+    <td>Être bête, idiot.</td>
+    <td>Vulgaire</td>
+    <td>[‘beʃtɐ]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/besta.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Biu</td>
+    <td>« […] Se fosse qualquer um de vocês, eu era chamado era de <strong>Biu</strong>. »</td>
+    <td>Page 82</td>
+    <td>Référence au prénom Severino ou à quelqu’un qui est homosexuel.</td>
+    <td>Familier et/ou vulgaire.</td>
+    <td>[‘biw]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/biu.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao3">
+<td class="mot">Cabra</td>
+    <td>« É Severino do Aracaju, que entrou na cidade com um <strong>cabra</strong>… »</td>
+    <td>Page 79</td>
+    <td>Un homme.</td>
+    <td>Familier.</td>
+    <td>[‘kabɾɐ]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/cabra(1).ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Cangaceiro</td>
+    <td>« Um <strong>cangaceiro</strong>, um homem horrível. »</td>
+    <td>Page 80</td>
+    <td>Un bandit.</td>
+    <td>Archaïque</td>
+    <td>[kɐ̃ga’sejɾu]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/cangaceiro.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Cão</td>
+    <td>« Faz-se é dar mais gosto ao <strong>cão</strong> »</td>
+    <td>Page 7</td>
+    <td>Le diable.</td>
+    <td>Archaïque</td>
+    <td>[ˈkɐ̃w̃]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/cao.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="expression">Cara lisa</td>
+    <td>« Tenho visto poucos sujeitos levar carão e ficar com <strong>cara lisa</strong> como esse. »</td>
+    <td>Page 121</td>
+    <td>Visage sans expression et/ou réaction.</td>
+    <td>Familier</td>
+    <td>[‘kaɾɐ] [‘lizɐ]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/caralisa.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="expression">Carne de cobra</td>
+    <td>« E tem a vantagem de descontentar aquele camarada ali que é pior do que <strong>carne de cobra</strong>. »</td>
+    <td>Page 140</td>
+    <td>Quelqu’un qui ne vaut rien.</td>
+    <td>Vulgaire</td>
+    <td>[‘karni] [di] [‘kobɾɐ]
+    <br>
+    <audio controls>
+        <source src="/assets/audio/carnedecobra.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao4">
+<td class="expression">Deixar de agonia</td>
+    <td>« Mas <strong>deixe de agonia</strong>, que o povo vem aí »</td>
+    <td>Page 39</td>
+    <td>Expression dont le sens s’approche de “ne vous inquiétez pas”, cite de manière informelle.</td>
+    <td>Non-vulgaire</td>
+    <td>[dejˈʃar] [di] [agu’niɐ]
+    <audio controls>
+        <source src="/assets/audio/deixardeagonia.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="expression">Deixar de agouro</td>
+    <td>« João, <strong>deixe de agouro</strong> com o menino, que isso pode se virar por cima de você. »</td>
+    <td>Page 22</td>
+    <td>Maudire quelque chose à quelqu’un.</td>
+    <td>Familier</td>
+    <td>[dejˈʃar] [di] [a’gowɾu]
+    <audio controls>
+        <source src="/assets/audio/deixardeagouro.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao5">
+<td class="mot">Enxerido</td>
+    <td>« Severino meteu-se no meio porque quis e de <strong>enxerido</strong> que era. »</td>
+    <td>Page 100</td>
+    <td>Dans ce cas-là, personne qui veut tout savoir et y participer. Dans certains contextes, “enxerido” peut également être quelqu’un qui drague beaucoup.</td>
+    <td>Familier</td>
+    <td>[ẽʃe’ɾidu]
+    <audio controls>
+        <source src="/assets/audio/enxerido.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao12">
+<td class="mot">Latomia</td>
+    <td>« Que <strong>latomia</strong> é essa para o meu lado? »</td>
+    <td>Page 18</td>
+    <td>Le sens peut varier parmi “regretter”, “se plaindre” et “maudire”, ce dernier étant le plus approprié dans ce contexte-ci.</td>
+    <td>Familier</td>
+    <td>[latu’mjɐ]
+    <audio controls>
+        <source src="/assets/audio/latomia.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Leso</td>
+    <td>« Você mesmo é um <strong>leso</strong> de marca, Chicó. »</td>
+    <td>Page 23</td>
+    <td>Originalement du latin LESATUS dont le sens porte sur une lesion ou blessure ; au Nord-est, ce mot est utilisé aux personnes qui ont le raisonnement assez lent et pas trop d’initiative.</td>
+    <td>Vulgaire</td>
+    <td>[‘lɛzu]
+    <audio controls>
+        <source src="/assets/audio/leso.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<td class="expression">Levar carão</td>
+    <td>« Tenho visto poucos sujeitos <strong>levar carão</strong> e ficar com cara lisa como esse. »</td>
+    <td>Page 121</td>
+    <td>Réprimander quelqu’un.</td>
+    <td>Non-vulgaire</td>
+    <td>[le’var] [ka’ɾaw]
+    <audio controls>
+        <source src="/assets/audio/levarcarao.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao13">
+<td class="mot">Macambira</td>
+    <td>« passando fome e comendo <strong>macambira</strong> na seca, garanto que tinham mais coragem. »</td>
+    <td>Page 128</td>
+    <td>Plante typique de la <em>Caatinga</em>, assez résistante à la sécheresse.</td>
+    <td>Non-vulgaire</td>
+    <td>[makã’biɾɐ]
+    <audio controls>
+        <source src="/assets/audio/macambira.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="mot">Mangar</td>
+    <td>« Não <strong>mangue</strong> não, João. »</td>
+    <td>Page 91</td>
+    <td>Plaisanter, faire une blague.</td>
+    <td>Non-vulgaire</td>
+    <td>[mã’gar]
+    <audio controls>
+        <source src="/assets/audio/mangar.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao16">
+<td class="mot">Pamonha</td>
+    <td>« Vocês são uns <strong>pamonhas</strong>, qualquer coisinha estão arriando. »</td>
+    <td>Page 128</td>
+    <td>Quelqu’un qui est trop naïf et n’ose pas faire les choses; c’est aussi une nourriture typique de la “festa Junina” ou “festa Julina” (fêtes qui se déroulent au mois de Juin et Juillet et présente des plats, danses et tenue typique).</td>
+    <td>Vulgaire</td>
+    <td>[pa’moɲɐ]
+    <audio controls>
+        <source src="/assets/audio/pamonha.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr>
+<td class="expression">Papo-amarelo</td>
+    <td>« […] que não tem ninguém por ele, a não ser seu velho e pobre <strong>papo-amarelo</strong>. »</td>
+    <td>Page 83</td>
+    <td>Quelqu’un qui est trop naïf et n’ose pas faire les choses; c’est aussi une nourriture typique de la “festa Junina” ou “festa Julina” (fêtes qui se déroulent au mois de Juin et Juillet et présente des plats, danses et tenue typique).</td>
+    <td>Familier</td>
+    <td>[‘papu] [ama’rɛlu]
+    <audio controls>
+        <source src="/assets/audio/papoamarelo.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao18">
+<td class="mot">Ribeira</td>
+    <td>« Você sabe que eu comecei a correr da <strong>ribeira</strong> do Taperoá… »</td>
+    <td>Page 16</td>
+    <td>Petite rivière, l’eau est peu profonde et étroite.</td>
+    <td>Non-vulgaire</td>
+    <td>[Ri’bejɾɐ]
+    <audio controls>
+        <source src="/assets/audio/ribeira.ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+<tr id="secao20">
+<td class="mot">Tanger</td>
+    <td>« Tomei uma vereda que havia assim e aí <strong>tangendo</strong> o boi... »</td>
+    <td>Page 16</td>
+    <td>Se faire presser, dépêcher quelqu’un</td>
+    <td>Non-vulgaire</td>
+    <td>[tɐ̃ˈʒer]
+    <audio controls>
+        <source src="/assets/audio/tanger(1).ogg" type="audio/ogg">
+    </audio>
+    </td>
+</tr>
+
+</table></div>
+            </div>
+        </div>

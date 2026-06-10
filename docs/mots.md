@@ -36,7 +36,7 @@
     <td>[a]  [bẽ’sɐ̃w̃]
     <br>
     <audio controls>
-        <source src="./abencao.ogg" type="audio/ogg">
+        <source src="/assets/audio/abencao.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -51,7 +51,7 @@
     <td>[alej’ʒɐ̃w̃]
     <br>
     <audio controls>
-        <source src="../site/audios/aleijao.ogg" type="audio/ogg">
+        <source src="/assets/audio/aleijao.ogg" type="audio/ogg">
     </audio>    
     </td>
 </tr>
@@ -66,7 +66,7 @@
     <td>[ape’adu]
     <br>
     <audio controls>
-        <source src="./apeado.ogg" type="audio/ogg">
+        <source src="/assets/audio/apeado.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -80,7 +80,7 @@
     <td>[ar’akati]
     <br>
     <audio controls>
-        <source src="./aracate.ogg" type="audio/ogg">
+        <source src="/assets/audio/aracate.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -94,7 +94,7 @@
     <td>[aRi’bar]
     <br>
     <audio controls>
-        <source src="./arribar.ogg" type="audio/ogg">
+        <source src="/assets/audio/arribar.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -108,7 +108,7 @@
     <td>[aRu’adu]
     <br>
     <audio controls>
-        <source src="./arruado.ogg" type="audio/ogg">
+        <source src="/assets/audio/arruado.ogg" type="audio/ogg">
     </audio>
     </td>   
 </tr>
@@ -122,7 +122,7 @@
     <td>[bab’aw]
     <br>
     <audio controls>
-        <source src="./babau.ogg" type="audio/ogg">
+        <source src="/assets/audio/babau.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -135,7 +135,7 @@
     <td>[babu’Ʒar]
     <br>
     <audio controls>
-        <source src="./babujar.ogg" type="audio/ogg">
+        <source src="/assets/audio/babujar.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -148,7 +148,7 @@
     <td>[‘bẽza] [u] [‘dews]
     <br>
     <audio controls>
-        <source src="./benzadeus.ogg" type="audio/ogg">
+        <source src="/assets/audio/benzadeus.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -161,7 +161,7 @@
     <td>[‘boka] [di] [se’der]
     <br>
     <audio controls>
-        <source src="./bocadeceder.ogg" type="audio/ogg">
+        <source src="/assets/audio/bocadeceder.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -175,7 +175,7 @@
     <td>[kaa’tĩgɐ]
     <br>
     <audio controls>
-        <source src="./caatinga.ogg" type="audio/ogg">
+        <source src="/assets/audio/caatinga.ogg" type="audio/ogg">
     </audio>
     </td>   
 </tr>
@@ -188,7 +188,7 @@
     <td>[‘kabɾɐ]
     <br>
     <audio controls>
-        <source src="./cabra.ogg" type="audio/ogg">
+        <source src="/assets/audio/cabra.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -201,7 +201,7 @@
     <td>[‘kabɾɐ] [sẽ] [ver’goɲɐ]
     <br>
     <audio controls>
-        <source src="./cabrasemvergonha.ogg" type="audio/ogg">
+        <source src="/assets/audio/cabrasemvergonha.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -214,7 +214,7 @@
     <td>[kamaɾ’iɲɐ]
     <br>
     <audio controls>
-        <source src="./camarinha.ogg" type="audio/ogg">
+        <source src="/assets/audio/camarinha.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -227,7 +227,7 @@
     <td> [kapo’ejru]
     <br>
     <audio controls>
-        <source src="./capoeiro.ogg" type="audio/ogg">
+        <source src="/assets/audio/capoeiro.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -240,7 +240,7 @@
     <td>[kaɾi’tɔ]
     <br>
     <audio controls>
-        <source src="./carito.ogg" type="audio/ogg">
+        <source src="/assets/audio/carito.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -253,7 +253,7 @@
     <td>[kaR’ãka]
     <br>
     <audio controls>
-        <source src="./carranca.ogg" type="audio/ogg">
+        <source src="/assets/audio/carranca.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -266,7 +266,7 @@
     <td>[se’ar]
     <br>
     <audio controls>
-        <source src="./cear.ogg" type="audio/ogg">
+        <source src="/assets/audio/cear.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -279,7 +279,7 @@
     <td>[ʃa’mar] [‘tudu] [‘kuãtu] [ɛ] [‘nomi]
     <br>
     <audio controls>
-        <source src="./chamartudo.ogg" type="audio/ogg">
+        <source src="/assets/audio/chamartudo.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -292,7 +292,7 @@
     <td>[‘ʃeju] [das] [‘novi] [‘ɔɾɐs]
     <br>
     <audio controls>
-        <source src="./cheiodenove.ogg" type="audio/ogg">
+        <source src="/assets/audio/cheiodenove.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -305,7 +305,7 @@
     <td>[ʃi’nɛlɐs]
     <br>
     <audio controls>
-        <source src="./chinela.ogg" type="audio/ogg">
+        <source src="/assets/audio/chinela.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -318,7 +318,7 @@
     <td>[‘ʃowtu]
     <br>
     <audio controls>
-        <source src="./chouto.ogg" type="audio/ogg">
+        <source src="/assets/audio/chouto.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -331,7 +331,7 @@
     <td>[kõ’padɾi]
     <br>
     <audio controls>
-        <source src="./compadre.ogg" type="audio/ogg">
+        <source src="/assets/audio/compadre.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -344,7 +344,7 @@
     <td>[ku’ɲã]
     <br>
     <audio controls>
-        <source src="./cunha.ogg" type="audio/ogg">
+        <source src="/assets/audio/cunha.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -358,7 +358,7 @@
     <td>[deRe’adu]
     <br>
     <audio controls>
-        <source src="./derreado.ogg" type="audio/ogg">
+        <source src="/assets/audio/derreado.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -371,7 +371,7 @@
     <td>[dj’abu] [di]
     <br>
     <audio controls>
-        <source src="./diabode.ogg" type="audio/ogg">
+        <source src="/assets/audio/diabode.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -384,7 +384,7 @@
     <td>[di’aʃu]
     <br>
     <audio controls>
-        <source src="./diacho.ogg" type="audio/ogg">
+        <source src="/assets/audio/diacho.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -398,7 +398,7 @@
     <td>[ẽkowɾ’adu]
     <br>
     <audio controls>
-        <source src="./encourado.ogg" type="audio/ogg">
+        <source src="/assets/audio/encourado.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -411,7 +411,7 @@
     <td>[enegɾe’sẽdu]
     <br>
     <audio controls>
-        <source src="./enegrecendo.ogg" type="audio/ogg">
+        <source src="/assets/audio/enegrecendo.ogg" type="audio/ogg">
     </audio>
     </td>
  </tr>
@@ -424,7 +424,7 @@
     <td>[ispɾi’tadu]
     <br>
     <audio controls>
-        <source src="./espritado.ogg" type="audio/ogg">
+        <source src="/assets/audio/espritado.ogg" type="audio/ogg">
     </audio>
     </td>
 
@@ -439,7 +439,7 @@
     <td>[faˈɾɔw] [di] [keɾoˈzɛni]
     <br>
     <audio controls>
-        <source src="./faroldequerosene.ogg" type="audio/ogg">
+        <source src="/assets/audio/faroldequerosene.ogg" type="audio/ogg">
     </audio>
     </td>
 
@@ -454,7 +454,7 @@
     <td>[ʒɐ̃’dajɐ]
     <br>
     <audio controls>
-        <source src="./jandaia.ogg" type="audio/ogg">
+        <source src="/assets/audio/jandaia.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -467,7 +467,7 @@
     <td>[ʒua’zejru]
     <br>
     <audio controls>
-        <source src="./juazeiro.ogg" type="audio/ogg">
+        <source src="/assets/audio/juazeiro.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -480,7 +480,7 @@
     <td>[ʒu’ɾemɐ]
     <br>
     <audio controls>
-        <source src="./jurema.ogg" type="audio/ogg">
+        <source src="/assets/audio/jurema.ogg" type="audio/ogg">
     </audio>
     </td>
     
@@ -495,7 +495,7 @@
     <td>[madapo’lãw̃]
     <br>
     <audio controls>
-        <source src="./madapolao.ogg" type="audio/ogg">
+        <source src="/assets/audio/madapolao.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -508,7 +508,7 @@
     <td>[‘maw] [dus] [‘ʃifɾes]
     <br>
     <audio controls>
-        <source src="./maldoschifres.ogg" type="audio/ogg">
+        <source src="/assets/audio/maldoschifres.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -521,7 +521,7 @@
     <td>[mãdaka’ɾu]
     <br>
     <audio controls>
-        <source src="./mandacuru.ogg" type="audio/ogg">
+        <source src="/assets/audio/mandacuru.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -534,7 +534,7 @@
     <td>[mãd’arãw̃] [lẽbɾ’ãsɐs]
     <br>
     <audio controls>
-        <source src="./mandaramlembrancas.ogg" type="audio/ogg">
+        <source src="/assets/audio/mandaramlembrancas.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -547,7 +547,7 @@
     <td>[mowɾ’ãw̃] 
     <br>
     <audio controls>
-        <source src="./mourao.ogg" type="audio/ogg">
+        <source src="/assets/audio/mourao.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -560,7 +560,7 @@
     <td>[mũgũ’za]
     <br>
     <audio controls>
-        <source src="./mugunza.ogg" type="audio/ogg">
+        <source src="/assets/audio/mugunza.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -573,7 +573,7 @@
     <td>[mũ’disɐ]
     <br>
     <audio controls>
-        <source src="audio/mundica.ogg" type="audio/ogg">
+        <source src="/assets/audio/mundica.ogg" type="audio/ogg">
     </audio>
     </td>
 
@@ -581,14 +581,14 @@
 
 <tr id="secao15">
     <td class="expression">O cuco do relógio</td>
-    <td>« Até que dona Inácia, ouvindo o cuco do relógio cantar doze horas... »</td>
+    <td>« Até que dona Inácia, ouvindo <strong>o cuco do relógio</strong> cantar doze horas... »</td>
     <td>Chapitre 1, page 13</td>
     <td>Le bruit de l’horloge coucou (à pendule) quand il sonne</td>
     <td>Non-vulgaire</td>
     <td>[u] [‘kuku] [du] [re’lɔʒiu]
     <br>
     <audio controls>
-        <source src="./ocucodorelogio.ogg" type="audio/ogg">
+        <source src="/assets/audio/ocucodorelogio.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -602,7 +602,7 @@
     <td>[pakav’iɾɐ]
     <br>
     <audio controls>
-        <source src="./pacavira.ogg" type="audio/ogg">
+        <source src="/assets/audio/pacavira.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -615,7 +615,7 @@
     <td>[pan’asku]
     <br>   
     <audio controls>
-        <source src="./panasco.ogg" type="audio/ogg">
+        <source src="/assets/audio/panasco.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -628,7 +628,7 @@
     <td>[paɾo’aɾas]
     <br>
     <audio controls>
-        <source src="./paroaras.ogg" type="audio/ogg">
+        <source src="/assets/audio/paroaras.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -641,7 +641,7 @@
     <td>[‘piɐ]
     <br>
     <audio controls>
-        <source src="./pia.ogg" type="audio/ogg">
+        <source src="/assets/audio/pia.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -654,7 +654,7 @@
     <td>[piza’duɾɐ]
         <br>
     <audio controls>
-        <source src="./pisadura.ogg" type="audio/ogg">
+        <source src="/assets/audio/pisadura.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -668,7 +668,7 @@
     <td>[kuar’taw]
     <br>
     <audio controls>
-        <source src="./quartau.ogg" type="audio/ogg">
+        <source src="/assets/audio/quartau.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -681,7 +681,7 @@
     <td>[‘kẽ] [ko’meu] [a] [‘karni] [‘tẽ] [di] [Ru’er] [us] [‘ɔsus]
     <br>
     <audio controls>
-        <source src="./quemcomeu.ogg" type="audio/ogg">
+        <source src="/assets/audio/quemcomeu.ogg" type="audio/ogg">
     </audio>
 </td>
 </tr>
@@ -695,7 +695,7 @@
     <td>[Rapaɾ’igɐ]
     <br>
     <audio controls>
-        <source src="./rapariga.ogg" type="audio/ogg">
+        <source src="/assets/audio/rapariga.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -710,7 +710,7 @@
     <td>[‘Redi]
     <br>
     <audio controls>
-        <source src="./rede.ogg" type="audio/ogg">
+        <source src="/assets/audio/rede.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -723,7 +723,7 @@
     <td>[‘Rɛzis]
     <br>
     <audio controls>
-        <source src="./reses.ogg" type="audio/ogg">
+        <source src="/assets/audio/reses.ogg" type="audio/ogg">
     </audio>
     </td>
 
@@ -738,7 +738,7 @@
     <td>[si’ɲa]
     <br>
     <audio controls>
-        <source src="./sinha.ogg" type="audio/ogg">
+        <source src="/assets/audio/sinha.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -752,7 +752,7 @@
     <td>[tɐ̃ˈʒeʁ]
     <br>
     <audio controls>
-        <source src="./tanger.ogg" type="audio/ogg">
+        <source src="/assets/audio/tanger.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -765,19 +765,19 @@
     <td>[teɾ] [ʒu’izu]
     <br>
     <audio controls>
-        <source src="./terjuizo.ogg" type="audio/ogg">
+        <source src="/assets/audio/terjuizo.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
     <td class="expression">Ter umas ideias</td>
-    <td>« Esta menina tem umas ideias! »</td>
+    <td>« Esta menina <strong>tem umas ideias</strong>! »</td>
     <td>Chapitre 1, page 13</td>
     <td>Quelqu’un qui se fait des idées sans cohérence.</td>
     <td>Familier</td>
     <td>[‘ter] [umas] [i’dɛjɐs]
     <br>
     <audio controls>
-        <source src="./terumasideias.ogg" type="audio/ogg">
+        <source src="/assets/audio/terumasideias.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -791,7 +791,7 @@
     <td>[‘vaλɐ-mi] [‘Dews]
     <br>
     <audio controls>
-        <source src="./valhamedeus.ogg" type="audio/ogg">
+        <source src="/assets/audio/valhamedeus.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -804,7 +804,7 @@
     <td>[ver’gõtjɐ]
     <br>
     <audio controls>
-        <source src="./vergontea.ogg" type="audio/ogg">
+        <source src="/assets/audio/vergontea.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
