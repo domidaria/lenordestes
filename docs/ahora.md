@@ -35,7 +35,7 @@
     <td>[bj’atɐ]
     <br>
     <audio controls>
-        <source src="/assets/audio/beata.ogg" type="audio/ogg">
+        <source src="../assets/audio/beata.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -49,7 +49,7 @@
     <td>[‘kabɾɐ] [sa’fadu]
     <br>
     <audio controls>
-        <source src="/assets/audio/cabrasafado.ogg" type="audio/ogg">
+        <source src="../assets/audio/cabrasafado.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -63,7 +63,7 @@
     <td>[‘kɐ̃na] [Ra’ʃadɐ]
     <br>
     <audio controls>
-        <source src="/assets/audio/canarachada.ogg" type="audio/ogg">
+        <source src="../assets/audio/canarachada.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -77,7 +77,7 @@
     <td>[‘karni] [di] [‘sow]
     <br>
     <audio controls>
-        <source src="/assets/audio/carnedesol.ogg" type="audio/ogg">
+        <source src="../assets/audio/carnedesol.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -91,7 +91,7 @@
     <td>[me’ladu]
     <br>
     <audio controls>
-        <source src="/assets/audio/melado.ogg" type="audio/ogg">
+        <source src="../assets/audio/melado.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -105,7 +105,7 @@
     <td>[mu’ʎɛr] [‘dãmɐ]
     <br>
     <audio controls>
-        <source src="/assets/audio/mulherdama.ogg" type="audio/ogg">
+        <source src="../assets/audio/mulherdama.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -119,7 +119,7 @@
     <td>[‘õdi] [u] [dj’abu] [per’deɾɐ] [as] [‘botɐs]
     <br>
     <audio controls>
-        <source src="/assets/audio/ondeo.ogg" type="audio/ogg">
+        <source src="../assets/audio/ondeo.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -133,7 +133,7 @@
     <td>[‘panus]
     <br>
     <audio controls>
-        <source src="/assets/audio/pano.ogg" type="audio/ogg">
+        <source src="../assets/audio/pano.ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
@@ -147,7 +147,7 @@
     <td>[Rapaɾ’igɐ]
     <br>
     <audio controls>
-        <source src="/assets/audio/rapariga(1).ogg" type="audio/ogg">
+        <source src="../assets/audio/rapariga(1).ogg" type="audio/ogg">
     </audio>
     </td>
 </tr>
