@@ -280,6 +280,27 @@ blockquote {
     
 }
 
+/*menu souspages*/
+.dropdown-item.active {
+    background-color: var(--lightbrown);
+}
+
+.dropdown-item:hover {
+    background-color: var(--lightbrown2);
+}
+
+/*liens des sources*/
+p a {
+    color: var(--lightbrown);
+    text-decoration: none;
+    
+}
+
+p a:hover {
+    color: var(--darkbrown);
+    text-decoration: underline;
+}
+
 /*tri alphabétique*/
 .selection-anchor a {
     color: rgb(255, 255, 255);
