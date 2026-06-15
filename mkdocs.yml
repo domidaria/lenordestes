@@ -4,7 +4,6 @@ site_description: Le glossaire Le Nordestês
 extra_css:
 - estilo.css
 
-
 nav:
 - L'espace géographique: espace.md
 - Les Oeuvres: essai.md
