@@ -175,6 +175,23 @@ p {
     color: var(--lightbrown);
 }
 
+/*citation*/
+blockquote {
+    border:none;
+    font-family: Domine, serif;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+
+blockquote::before {
+    content: "“";
+    font-weight: bold;
+    font-size: 60px;
+    color: var(--lightbrown2);
+    line-height: 1;
+    
+}
 
 /*les oeuvres*/
 details {
