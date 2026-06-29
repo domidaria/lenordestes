@@ -453,7 +453,14 @@ input:focus, textarea:focus {
     font-family: "Roboto", sans-serif;
     font-weight: bold;
     font-size: 14px;
-    content: "FERNANDES Dominique Daria - Université de Rouen Normandie, 2026."
+    content: " Université de Rouen Normandie. © 2026 FERNANDES Dominique Daria - Licence CC BY 4.0";
+}
+
+.col-md-12 hr {
+    border-top: 0px;
+    opacity: 0;
+    margin: 0;
+    
 }
 
 /*responsive*/
